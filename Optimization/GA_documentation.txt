@@ -1,0 +1,20 @@
+Please note that the simulations are computationally intensive and may require several hours to complete execution.
+
+1. Run_GA_exo_cal.m serves as the main file and focuses on optimizing parameters sensitive to EE, TE, Early_CaL, and Late_CaL - 
+gCaPQ and gCaL. 
+The optimization process in this file utilizes Cost_Function_exo_cal.m as the designated cost function.
+
+
+2. Run_GA_na.m  serves as the main file and focuses on optimizing parameters sensitive to INa peak and INa half inactivation.
+gNa, gNalow, VmNA, VhNa, VmNaLow, VhNaLow and the parameter Frac_high
+The optimization process in this file utilizes Cost_Function_na.m as the designated cost function.
+
+
+3. The GA optimizations save the distribution, standard deviations of parameters, scaling factors followed by the error value in the file name. Select the standard deviations that yield the lowest error for the two runs to create the final population.
+
+
+4. Within the Create_optimized_population folder, you will find the code for generating the final simulated population. Create_het_pop.m accomplishes this by introducing log-normal variations in the parameters. It utilizes the standard deviations optimized by the GA and also incorporates experimentally known standard deviations for parameters not optimized by the GA. The output metrics for the final population are saved in this process. Additionally, plot_param_distribution.m is responsible for visualizing the parameter variations.
+
+
+5. The Figure_Report_GA folder contains the code necessary for creating the final histogram distribution, which illustrates the alignment between experimental and simulated metrics. Experimental values from the Camunas-Soler (2019) paper can be found in the beta_glucose_180.csv file.
+Experimental data is available here - https://github.com/jcamunas/patchseq
