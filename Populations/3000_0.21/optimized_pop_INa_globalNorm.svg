@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 576" style="enable-background:new 0 0 720 576;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000090270891680804828090000015203275869165055655_);fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#262626;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#262626;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:13.5px;}
+	.st6{font-size:14.85px;}
+	.st7{font-family:'Arial-ItalicMT';}
+	.st8{font-size:11.88px;}
+	.st9{font-family:'Arial-BoldItalicMT';}
+	.st10{font-family:'Arial-BoldMT';}
+	.st11{fill:#0000FF;fill-opacity:0.4;}
+	.st12{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:10;}
+	.st13{fill:#00FF00;fill-opacity:0.4;}
+	.st14{fill:#FF00FF;fill-opacity:0.4;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" width="720" height="576"/>
+			</defs>
+			<clipPath id="SVGID_00000176023365668576891070000013611575437105349764_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<rect style="clip-path:url(#SVGID_00000176023365668576891070000013611575437105349764_);fill:#FFFFFF;" width="720" height="576"/>
+		</g>
+	</g>
+	<g>
+		<rect class="st1" width="720" height="576"/>
+		<path class="st1" d="M93.5,512.5h241V43h-241V512.5z"/>
+	</g>
+	<g>
+		<line class="st2" x1="93.5" y1="512.5" x2="334.5" y2="512.5"/>
+		<line class="st2" x1="104.5" y1="512.5" x2="104.5" y2="517.2"/>
+		<line class="st2" x1="200.2" y1="512.5" x2="200.2" y2="517.2"/>
+		<line class="st2" x1="295.9" y1="512.5" x2="295.9" y2="517.2"/>
+	</g>
+	<g transform="translate(104.4545,521.895)">
+		<text transform="matrix(1 0 0 1 -4 13)" class="st3 st4 st5">0</text>
+	</g>
+	<g transform="translate(200.1583,521.895)">
+		<text transform="matrix(1 0 0 1 -4 13)" class="st3 st4 st5">5</text>
+	</g>
+	<g transform="translate(295.8621,521.895)">
+		<text transform="matrix(1 0 0 1 -8 13)" class="st3 st4 st5">10</text>
+	</g>
+	<g transform="translate(145,552)">
+		<text class="st3 st4 st6">Normalized </text>
+	</g>
+	<g transform="translate(225,552)">
+		<text class="st3 st7 st6">I</text>
+	</g>
+	<g transform="translate(230,559)">
+		<text class="st3 st7 st8">Na</text>
+	</g>
+	<g transform="translate(246,552)">
+		<text class="st3 st4 st6"> peak</text>
+	</g>
+	<g>
+		<line class="st2" x1="93.5" y1="512.5" x2="93.5" y2="43"/>
+		<line class="st2" x1="93.5" y1="512.5" x2="88.8" y2="512.5"/>
+		<line class="st2" x1="93.5" y1="465.5" x2="88.8" y2="465.5"/>
+		<line class="st2" x1="93.5" y1="418.6" x2="88.8" y2="418.6"/>
+		<line class="st2" x1="93.5" y1="371.6" x2="88.8" y2="371.6"/>
+		<line class="st2" x1="93.5" y1="324.7" x2="88.8" y2="324.7"/>
+		<line class="st2" x1="93.5" y1="277.8" x2="88.8" y2="277.8"/>
+		<line class="st2" x1="93.5" y1="230.8" x2="88.8" y2="230.8"/>
+		<line class="st2" x1="93.5" y1="183.9" x2="88.8" y2="183.9"/>
+		<line class="st2" x1="93.5" y1="136.9" x2="88.8" y2="136.9"/>
+		<line class="st2" x1="93.5" y1="89.9" x2="88.8" y2="89.9"/>
+		<line class="st2" x1="93.5" y1="43" x2="88.8" y2="43"/>
+	</g>
+	<g transform="translate(84.105,512.5)">
+		<text transform="matrix(1 0 0 1 -8 5)" class="st3 st4 st5">0</text>
+	</g>
+	<g transform="translate(84.105,465.55)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.05</text>
+	</g>
+	<g transform="translate(84.105,418.6)">
+		<text transform="matrix(1 0 0 1 -19 5)" class="st3 st4 st5">0.1</text>
+	</g>
+	<g transform="translate(84.105,371.65)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.15</text>
+	</g>
+	<g transform="translate(84.105,324.7)">
+		<text transform="matrix(1 0 0 1 -19 5)" class="st3 st4 st5">0.2</text>
+	</g>
+	<g transform="translate(84.105,277.75)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.25</text>
+	</g>
+	<g transform="translate(84.105,230.8)">
+		<text transform="matrix(1 0 0 1 -19 5)" class="st3 st4 st5">0.3</text>
+	</g>
+	<g transform="translate(84.105,183.85)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.35</text>
+	</g>
+	<g transform="translate(84.105,136.9)">
+		<text transform="matrix(1 0 0 1 -19 5)" class="st3 st4 st5">0.4</text>
+	</g>
+	<g transform="translate(84.105,89.95)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.45</text>
+	</g>
+	<g transform="translate(84.105,43)">
+		<text transform="matrix(1 0 0 1 -19 5)" class="st3 st4 st5">0.5</text>
+	</g>
+	<g transform="translate(54.605,277.7498) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -35.5002 -4)" class="st3 st4 st6">Frequency</text>
+	</g>
+	<g transform="translate(184,31)">
+		<text class="st9 st6">I</text>
+	</g>
+	<g transform="translate(189,38)">
+		<text class="st9 st8">Na</text>
+	</g>
+	<g transform="translate(205,31)">
+		<text class="st10 st6"> peak</text>
+	</g>
+	<g>
+		<path class="st11" d="M115.4,512.5V114.6h-11v397.9H115.4z M126.4,512.5v-244h-11v244H126.4z M137.3,512.5V358.7h-11v153.8H137.3z
+			 M148.3,512.5v-69h-11v69H148.3z M170.2,496.6h-11v15.9h11h11v-15.9H170.2z M192.1,512.5v-21.2h-11v21.2H192.1z M203,512.5v-5.3
+			h-11v5.3H203z M214,512.5v-15.9h-11v15.9H214z"/>
+	</g>
+	<g>
+		<path class="st12" d="M104.5,512.5V114.6h11v397.9l0,0"/>
+		<path class="st12" d="M115.4,268.5h11v244l0,0"/>
+		<path class="st12" d="M126.4,358.7h11v153.8l0,0"/>
+		<path class="st12" d="M137.3,443.5h11v69l0,0"/>
+		<line class="st12" x1="148.3" y1="512.5" x2="159.2" y2="512.5"/>
+		<path class="st12" d="M159.2,512.5L159.2,512.5v-15.9h11v15.9l0,0"/>
+		<line class="st12" x1="170.2" y1="496.6" x2="181.1" y2="496.6"/>
+		<path class="st12" d="M181.1,512.5L181.1,512.5v-21.2h11v21.2l0,0"/>
+		<line class="st12" x1="192.1" y1="507.2" x2="203" y2="507.2"/>
+		<path class="st12" d="M203,512.5L203,512.5v-15.9h11v15.9"/>
+	</g>
+	<g>
+		<path class="st13" d="M115.4,512.5v-288h-11v288H115.4z M126.4,512.5V219.2h-11v293.3H126.4z M137.3,512.5V411.1h-11v101.4H137.3z
+			 M148.3,512.5v-35.4h-11v35.4H148.3z M159.2,512.5v-9.7h-11v9.7H159.2z M170.2,512.5v-5.9h-11v5.9H170.2z M181.1,512.5v-5h-11v5
+			H181.1z M192.1,512.5v-1.3h-11v1.3H192.1z M203,512.5v-0.9h-11v0.9H203z M225,512.5v-0.6h-11v0.6H225z M257.8,512.5v-0.3h-11v0.3
+			H257.8z"/>
+	</g>
+	<g>
+		<path class="st12" d="M104.5,512.5v-288h11"/>
+		<path class="st12" d="M115.4,512.5L115.4,512.5V219.2h11v293.3l0,0"/>
+		<path class="st12" d="M126.4,411.1h11v101.4l0,0"/>
+		<path class="st12" d="M137.3,477.1h11v35.4l0,0"/>
+		<path class="st12" d="M148.3,502.8h11v9.7l0,0"/>
+		<path class="st12" d="M159.2,506.6h11v5.9l0,0"/>
+		<path class="st12" d="M170.2,507.5h11v5l0,0"/>
+		<path class="st12" d="M181.1,511.2h11v1.3l0,0"/>
+		<path class="st12" d="M192.1,511.6h11v0.9l0,0"/>
+		<line class="st12" x1="203" y1="512.5" x2="214" y2="512.5"/>
+		<path class="st12" d="M214,512.5L214,512.5v-0.6h11v0.6l0,0"/>
+		<path class="st12" d="M225,512.5h11l0,0l0,0"/>
+		<line class="st12" x1="235.9" y1="512.5" x2="246.9" y2="512.5"/>
+		<path class="st12" d="M246.9,512.5L246.9,512.5v-0.3h11v0.3"/>
+	</g>
+	<g>
+		<path class="st14" d="M115.4,512.5v-11h-11v11H115.4z M126.4,512.5v-96.4h-11v96.4H126.4z M137.3,512.5v-41.6h-11v41.6H137.3z
+			 M148.3,512.5v-18.8h-11v18.8H148.3z M159.2,512.5V499h-11v13.5H159.2z M170.2,512.5v-4.1h-11v4.1H170.2z M181.1,512.5v-2.8h-11
+			v2.8H181.1z M192.1,512.5v-4.4h-11v4.4H192.1z M203,512.5v-0.9h-11v0.9H203z M214,512.5v-1.3h-11v1.3H214z M225,512.5v-0.3h-11
+			v0.3H225z M235.9,511.9h-11v0.6h11h11v-0.6H235.9z M257.8,512.5v-0.3h-11v0.3H257.8z M312.6,512.2h-11v0.3h11h11v-0.3H312.6z"/>
+	</g>
+	<g>
+		<path class="st12" d="M104.5,512.5v-11h11"/>
+		<path class="st12" d="M115.4,512.5L115.4,512.5v-96.4h11v96.4l0,0"/>
+		<path class="st12" d="M126.4,470.9h11v41.6l0,0"/>
+		<path class="st12" d="M137.3,493.7h11v18.8l0,0"/>
+		<path class="st12" d="M148.3,499h11v13.5l0,0"/>
+		<path class="st12" d="M159.2,508.4h11v4.1l0,0"/>
+		<line class="st12" x1="170.2" y1="509.7" x2="181.1" y2="509.7"/>
+		<path class="st12" d="M181.1,512.5L181.1,512.5v-4.4h11v4.4l0,0"/>
+		<line class="st12" x1="192.1" y1="511.6" x2="203" y2="511.6"/>
+		<path class="st12" d="M203,512.5L203,512.5v-1.3h11v1.3l0,0"/>
+		<line class="st12" x1="214" y1="512.2" x2="225" y2="512.2"/>
+		<path class="st12" d="M225,512.5L225,512.5v-0.6h11v0.6l0,0"/>
+		<path class="st12" d="M235.9,511.9h11v0.6l0,0"/>
+		<path class="st12" d="M246.9,512.2h11v0.3l0,0"/>
+		<path class="st12" d="M257.8,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M268.8,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M279.7,512.5h11l0,0l0,0"/>
+		<line class="st12" x1="290.7" y1="512.5" x2="301.6" y2="512.5"/>
+		<path class="st12" d="M301.6,512.5L301.6,512.5v-0.3h11v0.3l0,0"/>
+		<path class="st12" d="M312.6,512.2h11v0.3"/>
+	</g>
+	<g>
+		<path class="st1" d="M410.5,512.5h241V43h-241V512.5z"/>
+	</g>
+	<g>
+		<line class="st2" x1="410.5" y1="512.5" x2="651.5" y2="512.5"/>
+		<line class="st2" x1="424.2" y1="512.5" x2="424.2" y2="517.2"/>
+		<line class="st2" x1="473.1" y1="512.5" x2="473.1" y2="517.2"/>
+		<line class="st2" x1="521.9" y1="512.5" x2="521.9" y2="517.2"/>
+		<line class="st2" x1="570.7" y1="512.5" x2="570.7" y2="517.2"/>
+		<line class="st2" x1="619.6" y1="512.5" x2="619.6" y2="517.2"/>
+	</g>
+	<g transform="translate(424.215,521.895)">
+		<text transform="matrix(1 0 0 1 -14 13)" class="st3 st4 st5">-120</text>
+	</g>
+	<g transform="translate(473.0504,521.895)">
+		<text transform="matrix(1 0 0 1 -14 13)" class="st3 st4 st5">-100</text>
+	</g>
+	<g transform="translate(521.8858,521.895)">
+		<text transform="matrix(1 0 0 1 -10 13)" class="st3 st4 st5">-80</text>
+	</g>
+	<g transform="translate(570.7211,521.895)">
+		<text transform="matrix(1 0 0 1 -10 13)" class="st3 st4 st5">-60</text>
+	</g>
+	<g transform="translate(619.5565,521.895)">
+		<text transform="matrix(1 0 0 1 -10 13)" class="st3 st4 st5">-40</text>
+	</g>
+	<g transform="translate(449,552)">
+		<text class="st3 st7 st6">I</text>
+	</g>
+	<g transform="translate(454,559)">
+		<text class="st3 st7 st8">Na</text>
+	</g>
+	<g transform="translate(470,552)">
+		<text class="st3 st4 st6"> half inactivation (mV)</text>
+	</g>
+	<g>
+		<line class="st2" x1="410.5" y1="512.5" x2="410.5" y2="43"/>
+		<line class="st2" x1="410.5" y1="512.5" x2="405.8" y2="512.5"/>
+		<line class="st2" x1="410.5" y1="445.4" x2="405.8" y2="445.4"/>
+		<line class="st2" x1="410.5" y1="378.4" x2="405.8" y2="378.4"/>
+		<line class="st2" x1="410.5" y1="311.3" x2="405.8" y2="311.3"/>
+		<line class="st2" x1="410.5" y1="244.2" x2="405.8" y2="244.2"/>
+		<line class="st2" x1="410.5" y1="177.1" x2="405.8" y2="177.1"/>
+		<line class="st2" x1="410.5" y1="110.1" x2="405.8" y2="110.1"/>
+		<line class="st2" x1="410.5" y1="43" x2="405.8" y2="43"/>
+	</g>
+	<g transform="translate(401.105,512.5)">
+		<text transform="matrix(1 0 0 1 -8 5)" class="st3 st4 st5">0</text>
+	</g>
+	<g transform="translate(401.105,445.4286)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.02</text>
+	</g>
+	<g transform="translate(401.105,378.3571)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.04</text>
+	</g>
+	<g transform="translate(401.105,311.2857)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.06</text>
+	</g>
+	<g transform="translate(401.105,244.2143)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.08</text>
+	</g>
+	<g transform="translate(401.105,177.1429)">
+		<text transform="matrix(1 0 0 1 -19 5)" class="st3 st4 st5">0.1</text>
+	</g>
+	<g transform="translate(401.105,110.0714)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.12</text>
+	</g>
+	<g transform="translate(401.105,43)">
+		<text transform="matrix(1 0 0 1 -27 5)" class="st3 st4 st5">0.14</text>
+	</g>
+	<g transform="translate(371.605,277.7498) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -35.5002 -4)" class="st3 st4 st6">Frequency</text>
+	</g>
+	<g transform="translate(459,31)">
+		<text class="st10 st6"> </text>
+	</g>
+	<g transform="translate(464,31)">
+		<text class="st9 st6">I</text>
+	</g>
+	<g transform="translate(469,38)">
+		<text class="st9 st8">Na</text>
+	</g>
+	<g transform="translate(485,31)">
+		<text class="st10 st6"> half inactivation</text>
+	</g>
+	<g>
+		<path class="st11" d="M432.4,512.5v-6h-11v6H432.4z M531,506.5h-11v6h11h11v-6H531z M552.9,512.5v-35.9h-11v35.9H552.9z
+			 M563.9,512.5V291.2h-11v221.3H563.9z M574.8,512.5V404.9h-11v107.6H574.8z M585.8,452.7h-11v59.8h11h11v-59.8H585.8z
+			 M607.7,512.5V380.9h-11v131.6H607.7z M618.6,512.5v-83.7h-11v83.7H618.6z M629.6,512.5v-17.9h-11v17.9H629.6z M640.5,512.5v-12
+			h-11v12H640.5z"/>
+	</g>
+	<g>
+		<path class="st12" d="M421.5,512.5v-6h11v6l0,0"/>
+		<path class="st12" d="M432.4,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M443.4,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M454.3,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M465.3,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M476.2,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M487.2,512.5h11l0,0l0,0"/>
+		<path class="st12" d="M498.1,512.5h11l0,0l0,0"/>
+		<line class="st12" x1="509.1" y1="512.5" x2="520" y2="512.5"/>
+		<path class="st12" d="M520,512.5L520,512.5v-6h11v6l0,0"/>
+		<line class="st12" x1="531" y1="506.5" x2="542" y2="506.5"/>
+		<path class="st12" d="M542,512.5L542,512.5v-35.9h11"/>
+		<path class="st12" d="M552.9,512.5L552.9,512.5V291.2h11v221.3l0,0"/>
+		<path class="st12" d="M563.9,404.9h11v107.6l0,0"/>
+		<line class="st12" x1="574.8" y1="452.7" x2="585.8" y2="452.7"/>
+		<path class="st12" d="M585.8,512.5L585.8,512.5v-59.8h11"/>
+		<path class="st12" d="M596.7,512.5L596.7,512.5V380.9h11v131.6l0,0"/>
+		<path class="st12" d="M607.7,428.8h11v83.7l0,0"/>
+		<path class="st12" d="M618.6,494.6h11v17.9l0,0"/>
+		<path class="st12" d="M629.6,500.5h11v12"/>
+	</g>
+	<g>
+		<path class="st13" d="M487.2,512.5v-0.2h-11v0.2H487.2z M498.1,512.5v-1h-11v1H498.1z M509.1,512.5v-2h-11v2H509.1z M520,512.5
+			V507h-11v5.5H520z M531,512.5v-9.7h-11v9.7H531z M542,512.5v-19.9h-11v19.9H542z M552.9,512.5V443h-11v69.5H552.9z M563.9,512.5
+			V444h-11v68.5H563.9z M574.8,512.5v-90.9h-11v90.9H574.8z M585.8,512.5v-95.7h-11v95.7H585.8z M596.7,512.5V408.1h-11v104.4H596.7
+			z M607.7,512.5v-69.8h-11v69.8H607.7z M618.6,512.5v-32.9h-11v32.9H618.6z M629.6,512.5v-14h-11v14H629.6z M640.5,512.5V506h-11
+			v6.5H640.5z"/>
+	</g>
+	<g>
+		<path class="st12" d="M476.2,512.5v-0.2h11"/>
+		<path class="st12" d="M487.2,512.5L487.2,512.5v-1h11"/>
+		<path class="st12" d="M498.1,512.5L498.1,512.5v-2h11"/>
+		<path class="st12" d="M509.1,512.5L509.1,512.5V507h11"/>
+		<path class="st12" d="M520,512.5L520,512.5v-9.7h11"/>
+		<path class="st12" d="M531,512.5L531,512.5v-19.9h11"/>
+		<path class="st12" d="M542,512.5L542,512.5V443h11v69.5l0,0"/>
+		<line class="st12" x1="552.9" y1="444" x2="563.9" y2="444"/>
+		<path class="st12" d="M563.9,512.5L563.9,512.5v-90.9h11"/>
+		<path class="st12" d="M574.8,512.5L574.8,512.5v-95.7h11"/>
+		<path class="st12" d="M585.8,512.5L585.8,512.5V408.1h11v104.4l0,0"/>
+		<path class="st12" d="M596.7,442.7h11v69.8l0,0"/>
+		<path class="st12" d="M607.7,479.6h11v32.9l0,0"/>
+		<path class="st12" d="M618.6,498.5h11v14l0,0"/>
+		<path class="st12" d="M629.6,506h11v6.5"/>
+	</g>
+	<g>
+		<path class="st14" d="M574.8,512.5v-0.2h-11v0.2H574.8z M596.7,512.5v-1.2h-11v1.2H596.7z M607.7,512.5v-8.7h-11v8.7H607.7z
+			 M618.6,512.5v-43.4h-11v43.4H618.6z M629.6,512.5v-91.2h-11v91.2H629.6z M640.5,512.5v-12.2h-11v12.2H640.5z"/>
+	</g>
+	<g>
+		<path class="st12" d="M563.9,512.5v-0.2h11v0.2l0,0"/>
+		<line class="st12" x1="574.8" y1="512.5" x2="585.8" y2="512.5"/>
+		<path class="st12" d="M585.8,512.5L585.8,512.5v-1.2h11"/>
+		<path class="st12" d="M596.7,512.5L596.7,512.5v-8.7h11"/>
+		<path class="st12" d="M607.7,512.5L607.7,512.5v-43.4h11"/>
+		<path class="st12" d="M618.6,512.5L618.6,512.5v-91.2h11v91.2l0,0"/>
+		<path class="st12" d="M629.6,500.3h11v12.2"/>
+	</g>
+</g>
+</svg>
