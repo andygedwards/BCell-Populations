@@ -77,8 +77,7 @@ function [parameters, varargout] = Riz2014_init_parameters_INa_low()
   % --- I_KATP ---
   parameters(45) = 0.01; % g_KATP0;
   parameters(46) = 0.05; % g_KATP_hat;
-  parameters(47) = 1.0; % glycolysis; %original value
-  %parameters(47) = 1.0; % glycolysis;
+  parameters(47) = 1.0; % glycolysis; 
   
 
   % --- I_GABAR ---
@@ -139,7 +138,6 @@ function [parameters, varargout] = Riz2014_init_parameters_INa_low()
   parameters(86) = 70.0; % V_Na;
 
   if nargout == 2
-
     % --- Parameter names --- 
     parameter_names = cell(86, 1);
 
@@ -266,6 +264,7 @@ function [parameters, varargout] = Riz2014_init_parameters_INa_low()
     parameter_names{84} = 'V_Cl';
     parameter_names{85} = 'V_K';
     parameter_names{86} = 'V_Na';
+
     varargout(1) = {parameter_names};
   end
 end

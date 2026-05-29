@@ -1,9 +1,9 @@
-function [states, varargout] = Riz2014_init_states()
+function [states, varargout] = Riz2014_init_states_INa_low()
   % % Default state values for ODE model: Riz2014
   % % -------------------------------------------
   % %
-  % % states = Riz2014_init_states();
-  % % [states, states_names] = Riz2014_init_states();
+  % % states = Riz2014_init_states_INa_low();
+  % % [states, states_names] = Riz2014_init_states_INa_low();
 
   % --- Default initial state values --- 
   states = zeros(15, 1);
